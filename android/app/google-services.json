@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986677171992",
+    "firebase_url": "https://diabetespredictor-46eab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "diabetespredictor-46eab",
+    "storage_bucket": "diabetespredictor-46eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986677171992:android:3ff2815acfdac83eb8b06d",
+        "android_client_info": {
+          "package_name": "com.example.diabe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986677171992-r0lcjhannrq8iatk5c20m8630mi4kaae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diabe",
+            "certificate_hash": "61af9d40797ba729e73841ef2f12d1a1bcef4f2f"
+          }
+        },
+        {
+          "client_id": "986677171992-js5tlsv99o3v0q8e3d9u5rlc4lsqipru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRoKoUt9lCYeemI5zz_-rAOwDMpbCpudI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986677171992-js5tlsv99o3v0q8e3d9u5rlc4lsqipru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
